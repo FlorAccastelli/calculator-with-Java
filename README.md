@@ -15,7 +15,7 @@ Ejecución del Proyecto
 
     git clone https://github.com/FlorAccastelli/calculator-with-Java.git
 
-    Abrir el Proyecto en NetBeans: Abre NetBeans IDE y selecciona "File" > "Open Project". Navega hasta la ubicación donde clonaste el repositorio y selecciona el archivo de proyecto (calculadora-java).
+    Abrir el Proyecto en NetBeans: Abre NetBeans IDE y selecciona "File" > "Open Project". Navega hasta la ubicación donde clonaste el repositorio y selecciona el archivo de proyecto (calculator-with-Java).
 
     Compilar y Ejecutar: Una vez abierto el proyecto en NetBeans, selecciona "Run" > "Run Project" (o presiona Shift+F6) para compilar y ejecutar el proyecto.
 
